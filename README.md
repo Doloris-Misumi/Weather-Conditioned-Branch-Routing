@@ -110,27 +110,6 @@ python main_cond_0.py \
   --epoch <epoch>
 ```
 
-### Utility Scripts
-
-```bash
-python tools/eval_model.py --config configs/cfg_rl_3df_gate.yml --checkpoint <path_to_model.pt>
-python tools/export_sample_modalities.py --dataset_root ./data/k_radar_dataset
-python tools/export_detection_outputs.py --dataset_root ./data/k_radar_dataset
-python tools/plot_loss_curves.py --log-dir ./logs/<experiment_name>
-python tools/summarize_training.py --log-dir ./logs/<experiment_name>
-```
-
-### KITTI-Style Evaluation Helper
-
-```bash
-python utils/kitti_eval/eval_python.py --header <path_to_kitti_eval_folder>
-```
-
-The header directory is expected to contain:
-
-- `pred/`
-- `gt/`
-- `val.txt`
 
 ## Repository Layout
 
@@ -147,11 +126,6 @@ Weather_Conditioned_Branch_Routing/
 └── main_cond_0.py  # conditional evaluation entrypoint
 ```
 
-## Notes for Open-Source Use
-
-- Keep datasets, checkpoints, and logs outside version control.
-- Update config paths to your own local environment before training.
-- Some utility scripts assume GPU/CUDA availability.
 
 ## Citation
 
