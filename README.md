@@ -6,6 +6,9 @@ Repository for **Weather-Conditioned BranchRouting for Robust LiDAR-Radar 3D Obj
 
 ![image](fig1.png)
 
+[![arXiv](https://img.shields.io/badge/arXiv-2604.05405-b31b1b.svg)](https://arxiv.org/abs/2604.05405)
+
+
 ## Environment
 
 The codebase has been tested with:
