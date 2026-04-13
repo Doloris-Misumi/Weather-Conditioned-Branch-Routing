@@ -2,7 +2,6 @@
 
 
 ## Overview
-[fig1.pdf](https://github.com/user-attachments/files/26669181/fig1.pdf)
 
 This repository contains:
 
