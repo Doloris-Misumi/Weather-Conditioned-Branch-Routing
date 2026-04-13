@@ -3,18 +3,6 @@
 
 ## Overview
 ![image](fig1.png)
-This repository contains:
-
-- training and evaluation code for the main detection model
-- stage-1 image-based weather classifier training code
-- dataset split files and small resource files required by the pipeline
-- utility scripts for evaluation, export, and result inspection
-
-This repository does not include:
-
-- the K-Radar dataset
-- trained checkpoints
-- experiment logs or generated visualizations
 
 ## Environment
 
