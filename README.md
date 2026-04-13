@@ -1,7 +1,8 @@
-# Weather_Conditioned_Branch_Routing
+# Weather-Conditioned BranchRouting for Robust LiDAR-Radar 3D Object Detection
 
 
 ## Overview
+[fig1.pdf](https://github.com/user-attachments/files/26669181/fig1.pdf)
 
 This repository contains:
 
