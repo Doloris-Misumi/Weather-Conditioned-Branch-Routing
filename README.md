@@ -2,7 +2,7 @@
 
 
 ## Overview
-image[fig1.png]
+[image](fig1.png)
 This repository contains:
 
 - training and evaluation code for the main detection model
